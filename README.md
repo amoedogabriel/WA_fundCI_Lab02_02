@@ -1,2 +1,2 @@
-# WA_fundCI_Lab02_02
-Exercício 02 Laboratório 02
+# WA_fundCI_Lab02_01
+Exercício 01 Laboratório 02
